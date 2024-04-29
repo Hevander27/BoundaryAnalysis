@@ -32,6 +32,8 @@ The following **future** features may implemented:
 ## Blob Test Depth First Search - Video Walkthrough
 ![DFSAlgo_SearchBlob-ezgif com-video-to-gif-converter](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/b400babe-8c20-4368-8ff4-c3d08ec81bca)
 
+## Breath First Search - Video Walkthrough 
+![BFS_SearchAlgo-ezgif com-video-to-gif-converter](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/116b050b-2545-4420-a7ab-f1fdf934eb9a)
 
 
 
