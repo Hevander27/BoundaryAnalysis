@@ -30,7 +30,7 @@ The following **future** features may implemented:
 <img src='https://i.imgur.com/vhr4qox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Blob Test Depth First Search - Video Walkthrough
-<img src='https://i.imgur.com/a/11xmvNQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/a/nxJhVR2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
