@@ -2,11 +2,11 @@
 
 Created by: **Hevander Da Costa**
 
-**Aerosol Analysis** is a package designed in MATLAB for the quantitative analysis of aerosol plums and jets. The package uses search-based and machine learning based algorithms for topographical analysis of plums, jets, or blobs. The various algorithms can be used to idenifity features such as boundary velocity and velocity characteristics within sub clusters.
+**Aerosol Analysis** is a package designed in MATLAB for the quantitative analysis of aerosol plums and jets. The package uses search-based and machine learning based algorithms for topographical analysis of plums, jets, or blobs. The various algorithms can be used to idenifity boundary velocity and velocity characteristics within sub clusters; such as in a particle image velocity regime. 
 
 
 
-## Required Features
+## Included Features
 
 The following **required** functionality is completed:
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 
 ## Video Walkthrough
-<img src='https://i.imgur.com/Ziz2Qe9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/vhr4qox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
