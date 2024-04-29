@@ -24,13 +24,13 @@ The following **future** features may implemented:
 - [X] Dynamic tracing of morphing contigous blobs
   - [X] bounding box method
   - [X] Edge detection and continous search algormithm verification for close fit
-  - [ ] 
+  
 
 ## Depth First Search - Video Walkthrough 
 <img src='https://i.imgur.com/vhr4qox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Blob Test Depth First Search - Video Walkthrough
-<img src='https://i.imgur.com/a/nxJhVR2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![DFSAlgo_SearchBlob-ezgif com-video-to-gif-converter](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/b400babe-8c20-4368-8ff4-c3d08ec81bca)
 
 
 
