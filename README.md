@@ -15,45 +15,25 @@ The following **required** functionality is completed:
 - [X] Plum/Jet metrics: width, length, areas
 - [X] Boundary analysis of Aerosol for circumference 
 - [X] Dijkstra's, Breath-first, Depth-first, AStar
+- [X] Image segmentation and smoothing 
+
  
-The following **optional** features are implemented:
+The following **future** features may implemented:
 
-- [X] User can launch camera to snap a picture	
+- [X] Graphing funcitonality for the percentage of various velocity ranges
+- [X] Dynamic tracing of morphing contigous blobs
+  - [X] bounding box method
+  - [X] Edge detection and continous search algormithm verification for close fit
+  - [ ] 
 
-The following **additional** features are implemented:
-
-- [X] List anything else that you can get done to improve the app functionality!
-      . Add task from user input 
-- [X] ADD TASK
-
-
-
-## Video Walkthrough
+## Depth First Search - Video Walkthrough 
 <img src='https://i.imgur.com/vhr4qox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Blob Test Depth First Search - Video Walkthrough
+<img src='https://i.imgur.com/a/11xmvNQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## Notes
 
-Describe any challenges encountered while building the app.
-
-## License
-
-    Copyright [2024] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
 
 
