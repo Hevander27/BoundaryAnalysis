@@ -76,7 +76,7 @@ The following **future** features may implemented:
 
 ![Screen%20Recording%20-%20Apr%2029%2C%202024-2](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/9ed50096-a316-4f16-89f8-2f3ec4c8c962)
 
-## Image Preprocssing
+## Image Preprocessing
 **Blob image isolation, smoothing and clustering**
 
 
