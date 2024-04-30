@@ -35,7 +35,7 @@ The following **required** functionality is completed:
 - [X] Image segmentation and smoothing 
 
  
-## Future
+## Updates
 The following **future** features may implemented:
 
 - [X] Graphing funcitonality for the percentage of various velocity ranges
