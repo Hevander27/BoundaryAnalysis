@@ -23,7 +23,7 @@ Created by: **Hevander Da Costa**
 
 
 
-## Included Features
+## Contents
 
 The following **required** functionality is completed:
 
