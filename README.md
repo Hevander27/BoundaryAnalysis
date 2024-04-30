@@ -6,12 +6,12 @@ Created by: **Hevander Da Costa**
 
 1. [Overview](#Overview)
 2. [Contents](#Contents)
-3. [Future](#Future)
-4. [DFS Implementation](#DFS_Implementation)
-5. [BFS Implementation](#BFS_Implementation)
-6. [AStar Implementation](#AStar_Implementation)
-7. [Edge and Area Detection](#Edge_and_Area_Detection)
-8. [Image Segmentation and Cluster](#Image_Segmentation_and_Cluster)
+3. [Updates](#Updates)
+4. [DFS_Implementation](#DFS_Implementation)
+5. [BFS_Implementation](#BFS_Implementation)
+6. [AStar_Implementation](#AStar_Implementation)
+7. [Edge_and_Area_Detection](#Edge_and_Area_Detection)
+8. [Image_Segmentation_and_Cluster](#Image_Segmentation_and_Cluster)
 
 
 
