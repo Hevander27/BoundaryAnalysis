@@ -57,6 +57,8 @@ The following **future** features may implemented:
 
 ## BFS Implementation
 **Breath First Search - Video Walkthrough**
+
+
 ![BFS_SearchAlgo-ezgif com-video-to-gif-converter](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/116b050b-2545-4420-a7ab-f1fdf934eb9a)
 
 ## Blob Test Breath First Search - Video Walkthrough 
