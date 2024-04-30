@@ -43,7 +43,8 @@ The following **future** features may implemented:
 ![AStarAlgo_SearchBlob-ezgif com-video-to-gif-converter-2](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/0461e6c7-8125-43e0-bffc-280eb0dd4239)
 
 ## Blob Area and Edge - Video Walkthrough
-![Screen%20Recording%20-%20Apr%2029%2C%202024](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/b0a4693c-b00a-481c-b57a-b4c5b911fa74)
+![Screen%20Recording%20-%20Apr%2029%2C%202024-2](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/9ed50096-a316-4f16-89f8-2f3ec4c8c962)
+
 
 
 
