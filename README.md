@@ -7,7 +7,7 @@ Created by: **Hevander Da Costa**
 1. [Overview](#Overview)
 2. [Contents](#Contents)
 3. [Updates](#Updates)
-4. [DFS_Implementation](#DFS_Implementation)
+4. [DFS-Implementation](#DFS-Implementation)
 5. [BFS_Implementation](#BFS_Implementation)
 6. [AStar_Implementation](#AStar_Implementation)
 7. [Edge_and_Area_Detection](#Edge_and_Area_Detection)
@@ -44,7 +44,7 @@ The following **future** features may implemented:
   - [X] Edge detection and continous search algormithm verification for close fit
   
 
-## DFS Implementation
+## DFS-Implementation
 ## Depth First Search - Video Walkthrough 
 <img src='https://i.imgur.com/vhr4qox.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
