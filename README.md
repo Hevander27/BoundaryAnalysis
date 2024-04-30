@@ -5,7 +5,7 @@ Created by: **Hevander Da Costa**
 ## Table of Contents
 
 1. [Overview](#Overview)
-2. [Contents](#Contents)
+2. [Features](#Features)
 3. [Updates](#Updates)
 4. [DFS-Implementation](#DFS-Implementation)
 5. [BFS-Implementation](#BFS-Implementation)
