@@ -6,7 +6,7 @@ Created by: **Hevander Da Costa**
 
 1. [Overview](#Overview)
 2. [Contents](#Contents)
-3. [Future Features](#Future_Features)
+3. [Future](#Future)
 4. [DFS Implementation](#DFS_Implementation)
 5. [BFS Implementation](#BFS_Implementation)
 6. [AStar Implementation](#AStar_Implementation)
