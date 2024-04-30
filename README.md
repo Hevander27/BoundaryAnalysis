@@ -9,7 +9,7 @@ Created by: **Hevander Da Costa**
 3. [Updates](#Updates)
 4. [DFS-Implementation](#DFS-Implementation)
 5. [BFS-Implementation](#BFS-Implementation)
-6. [AStar-Implementation](#AStar-Implementation)
+6. [AStar Implementation](#AStar-Implementation)
 7. [Edge-And-Area-Detection](#Edge-And-Area-Detection)
 8. [Image-Preprocessing](#Image-Preprocessing)
 
