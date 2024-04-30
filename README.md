@@ -2,7 +2,7 @@
 
 Created by: **Hevander Da Costa**
 
-**Aerosol Analysis** is a package designed in MATLAB for the quantitative analysis of aerosol plums and jets. The package uses search-based and machine learning based algorithms for topographical analysis of plums, jets, or blobs. The various algorithms can be used to idenifity boundary velocity and velocity characteristics within sub clusters; such as in a particle image velocity regime. 
+**Aerosol Analysis** is a package designed in MATLAB for the quantitative analysis of aerosol plums and jets. The file `Jet_isolation.mlx` can be used to readily process raw images for background separtation, image smoothing, and image clustering. The package uses custome search-based and machine learning based algorithms for topographical analysis of plums, jets, or blobs. The various algorithms can be used to idenifity boundary velocities and sub cluster velocity characteristics; such as in a particle image velocity regime. This package was used for 
 
 
 
@@ -37,7 +37,6 @@ The following **future** features may implemented:
 
 ## Blob Test Breath First Search - Video Walkthrough 
 ![Screen%20Recording%20-%20Apr%2029%2C%202024](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/1ea0e652-2dd2-43e2-bfe7-ca1f8df85bd4)
-
 
 ## Blob Test AStar - Video Walkthrough
 ![AStarAlgo_SearchBlob-ezgif com-video-to-gif-converter-2](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/0461e6c7-8125-43e0-bffc-280eb0dd4239)
