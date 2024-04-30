@@ -1,4 +1,4 @@
-# Project 1 - *Aerosol Analysis*
+# Research Project - *Aerosol Analysis*
 
 Created by: **Hevander Da Costa**
 
