@@ -80,7 +80,7 @@ The following **future** features may implemented:
 **Blob image isolation, smoothing and clustering**
 
 
-![Screen%20Recording%20-%20Apr%2029%2C%202024](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/9adef4f5-e69f-4c27-a289-708de803ff92)
+![Screen%20Recording%20-%20May%201%2C%202024](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/be9dcb4c-05c4-4d31-8289-1a912bde9dd6)
 
 
 
