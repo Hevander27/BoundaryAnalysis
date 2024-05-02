@@ -78,7 +78,7 @@ The following **future** features may be implemented:
 
 ## Image Preprocessing
 **Blob image isolation, smoothing and clustering**
-
+https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/951887b8-ef4e-474a-9296-b1597edc0939
 
 ![Screen%20Recording%20-%20May%201%2C%202024](https://github.com/Hevander27/BoundaryAnalysis/assets/45948489/be9dcb4c-05c4-4d31-8289-1a912bde9dd6)
 
