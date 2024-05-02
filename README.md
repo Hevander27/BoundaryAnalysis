@@ -36,7 +36,7 @@ The following **required** functionality is completed:
 
  
 ## Updates
-The following **future** features may implemented:
+The following **future** features may be implemented:
 
 - [X] Graphing funcitonality for the percentage of various velocity ranges
 - [X] Dynamic tracing of morphing contigous blobs
