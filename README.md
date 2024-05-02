@@ -5,13 +5,14 @@ Created by: **Hevander Da Costa**
 ## Table of Contents
 
 1. [Overview](#Overview)
-2. [Features](#Features)
-3. [Updates](#Updates)
+2. [Video Walkthrough](#Video-Walkthrough)
+3. [Features](#Features)
+4. [Updates](#Updates)
 4. [DFS Implementation](#DFS-Implementation)
-5. [BFS Implementation](#BFS-Implementation)
-6. [AStar Implementation](#AStar-Implementation)
-7. [Edge and Area Detection](#Edge-And-Area-Detection)
-8. [Image Preprocessing](#Image-Preprocessing)
+6. [BFS Implementation](#BFS-Implementation)
+7. [AStar Implementation](#AStar-Implementation)
+8. [Edge and Area Detection](#Edge-And-Area-Detection)
+9. [Image Preprocessing](#Image-Preprocessing)
 
 
 
